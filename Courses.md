@@ -1,6 +1,6 @@
 - Testing with xUnit in C# (Dometrain)
-- Unit testing in C# (Dometrain)
 - Integration testing in ASP.NET Core (Dometrain)
 - Writing Testable Code in C# (Dometrain)
 - Test-Driven Development in C# (Dometrain)
-- Clean Architecture in .NET (Dometrain)
+x Unit testing in C# (Dometrain)
+x Clean Architecture in .NET (Dometrain)
