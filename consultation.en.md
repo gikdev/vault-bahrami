@@ -76,6 +76,8 @@
 * Marriage feels financially impossible
 * Fear of not enough money for uni
 * How should I grow my income?
+- I think I've inherited everything related to money from my dad...
+- Scared of being greedy.
 
 ## BUSINESS & SIDE PROJECTS
 * Wanting a coach but no money
@@ -123,3 +125,4 @@
 * Conflict between business / life and afterlife
 * Is having multiple spiritual teachers wrong?
 * Wanting alignment between faith and worldly goals
+
