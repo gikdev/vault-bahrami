@@ -126,3 +126,7 @@
 * Is having multiple spiritual teachers wrong?
 * Wanting alignment between faith and worldly goals
 
+## TO BE ORGANIZED
+* SAUSAGE
+* Feel like I've inherited my dad's greed & some other stuff...
+
