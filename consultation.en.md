@@ -1,6 +1,5 @@
 # Consultation
 
-## EMOTIONAL & PSYCHOLOGICAL WELL-BEING
 * I feel alone (been a couple years)
 * Feeling lonely but avoiding people
 * Don’t feel like talking to people
@@ -19,8 +18,6 @@
 * Avoiding life balance
 * Confusion / self‑blame about health routines
 * Anxiety about long‑term relevance
-
-## SELF-WORTH & IDENTITY
 * Self-worth tied to productivity
 * Only identity I know: studying / grades / programming
 * Wanna separate worth from performance — but don’t know how
@@ -29,8 +26,6 @@
 * Perfectionist
 * Intense pressure to do things “the right way”
 * Teaching doubts (“am I even qualified?”)
-
-## SOCIAL & RELATIONSHIP DYNAMICS
 * No friends
 * Lost my best friend at 12–13 y.o.
 * Can’t find a “proper” person to be friends with
@@ -42,22 +37,16 @@
 * Fear I’ll fail at marriage
 * Poor relationship with brothers and father → fear of failing at marriage
 * Don’t feel like maintaining family ties, yet feel lonely
-
-## FAMILY SYSTEM & UPBRINGING
 * Dad believes my interests / marriage will ruin my life
 * Gotta beg my parents not to fight
 * Gotta beg my parents to learn how to raise my brothers
 * Gotta beg them to do something with their lives
 * Feeling responsible for fixing parents / family
-
-## AUTONOMY & AUTHORITY CONFLICTS
 * I wanna be free, wanna make my own decisions
 * I don’t like others telling me what to do
 * My dad’s behavior is pushing me into being stubborn
 * Difficulty with authority figures (PM, bosses)
 * Trouble expressing disagreement.
-
-## WORK & CAREER
 * My PM gives me just too much work
 * When to switch jobs vs learn to cope
 * Fear of being fired
@@ -70,14 +59,12 @@
 * Strong discomfort with working on things I don’t understand
 * Fear AI may replace my job
 * Unsure whether to change profession or integrate AI
-
-## Finances & Income
 * Very low income
 * Marriage feels financially impossible
 * Fear of not enough money for uni
 * How should I grow my income?
-
-## BUSINESS & SIDE PROJECTS
+- I think I've inherited everything related to money from my dad...
+- Scared of being greedy.
 * Wanting a coach but no money
     - Willingness to coach others to afford being coached
 * No time: work + uni + business
@@ -92,8 +79,6 @@
 * Editing: outsource vs impossible costs
 * Maybe I should start a different business
 * Job is also an advantage for business → can’t quit
-
-## BEHAVIORAL PATTERNS & COPING
 * What does “coping” even mean?
 * Feeling bad when delegating to others or AI
 * Belief others can’t meet your quality standards
@@ -102,8 +87,6 @@
 * Hard to start / execute despite resources
 * Can’t bring myself to exercise, study, chores, prayer
 * Only want to code / Can’t stop programming
-
-## PHYSICAL HEALTH & BODY IMAGE
 * Underbite, out‑toed, birthmark
 * Thin / underweight
 * Exercising feels hard; want to be healthy
@@ -111,15 +94,19 @@
 * Thin / underweight despite eating a lot
 * Broken sleep schedule since COVID
 * Trouble fixing my sleep time
-
-## ACADEMICS & LEARNING
 * Wasn’t good at math / geography / physics at school
 * Fear of messing everything up at university
 * Fear academic failure repeating itself
-
-## VALUES & SPIRITUALITY
 * Core values: growth, power, honesty
 * Conflict between faith (God’s promise) and fear
 * Conflict between business / life and afterlife
 * Is having multiple spiritual teachers wrong?
 * Wanting alignment between faith and worldly goals
+* Why I buy SAUSAGE? (money related)
+* Feel like I've inherited my dad's greed & some other stuff...
+* Budgeting feels impossible
+* Cartoons make me feel bad
+* What is arrogance & what to do when I'm called arrogant?
+* See my cousins & I wanna have kids...
+* I plan my day lightly! But still can't do +50% most of the time
+
